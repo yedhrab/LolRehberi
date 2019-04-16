@@ -1,0 +1,3671 @@
+[
+    {
+        "name": "Aatrox",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/aatrox.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/aatrox-114",
+        "pickRates": [
+            "57%",
+            "28%",
+            "15%"
+        ],
+        "lanes": [
+            "top",
+            "mid",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "3",
+            "2",
+            "2",
+            "2"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "17.2% \n",
+        "pickRate": "6.49"
+    },
+    {
+        "name": "Ahri",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/ahri.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/ahri-89",
+        "pickRates": [
+            "95%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "3",
+            "1"
+        ],
+        "winRate": "53% \n\n",
+        "banRate": "3.4% \n",
+        "pickRate": "10.62"
+    },
+    {
+        "name": "Akali",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/akali.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/akali-50",
+        "pickRates": [
+            "57%",
+            "40%"
+        ],
+        "lanes": [
+            "mid",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "45% \n\n",
+        "banRate": "34.6% \n",
+        "pickRate": "6.2"
+    },
+    {
+        "name": "Alistar",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/alistar.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/alistar-4",
+        "pickRates": [
+            "99%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "8.9% \n",
+        "pickRate": "10.63"
+    },
+    {
+        "name": "Amumu",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/amumu.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/amumu-23",
+        "pickRates": [
+            "96%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "0.4% \n",
+        "pickRate": "2.88"
+    },
+    {
+        "name": "Anivia",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/anivia.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/anivia-25",
+        "pickRates": [
+            "86%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "2.2% \n",
+        "pickRate": "4.71"
+    },
+    {
+        "name": "Annie",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/annie.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/annie-1",
+        "pickRates": [
+            "73%",
+            "19%"
+        ],
+        "lanes": [
+            "mid",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "0.9% \n",
+        "pickRate": "3.19"
+    },
+    {
+        "name": "Ashe",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/ashe.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/ashe-13",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "0.3% \n",
+        "pickRate": "5.75"
+    },
+    {
+        "name": "Aurelion Sol",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/aurelion-sol.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/aurelion-sol-130",
+        "pickRates": [
+            "90%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "0.6% \n",
+        "pickRate": "1.71"
+    },
+    {
+        "name": "Azir",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/azir.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/azir-121",
+        "pickRates": [
+            "93%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "46% \n\n",
+        "banRate": "3% \n",
+        "pickRate": "3.55"
+    },
+    {
+        "name": "Bard",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/bard.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/bard-124",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "1",
+            "3",
+            "2",
+            "3"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "0.4% \n",
+        "pickRate": "5.4"
+    },
+    {
+        "name": "Blitzcrank",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/blitzcrank.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/blitzcrank-34",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "2",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "13.8% \n",
+        "pickRate": "9.21"
+    },
+    {
+        "name": "Brand",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/brand.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/brand-74",
+        "pickRates": [
+            "87%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "9.5% \n",
+        "pickRate": "8.78"
+    },
+    {
+        "name": "Braum",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/braum.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/braum-119",
+        "pickRates": [
+            "99%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "2",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "3.8% \n",
+        "pickRate": "8.03"
+    },
+    {
+        "name": "Caitlyn",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/caitlyn.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/caitlyn-67",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "4.7% \n",
+        "pickRate": "14.2"
+    },
+    {
+        "name": "Camille",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/camille.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/camille-134",
+        "pickRates": [
+            "78%",
+            "21%"
+        ],
+        "lanes": [
+            "jung",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "3",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "15.4% \n",
+        "pickRate": "10.35"
+    },
+    {
+        "name": "Cassiopeia",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/cassiopeia.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/cassiopeia-66",
+        "pickRates": [
+            "65%",
+            "22%",
+            "12%"
+        ],
+        "lanes": [
+            "mid",
+            "sup",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "53% \n\n",
+        "banRate": "2.5% \n",
+        "pickRate": "3.95"
+    },
+    {
+        "name": "Cho'Gath",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/chogath.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/chogath-22",
+        "pickRates": [
+            "72%",
+            "12%",
+            "12%"
+        ],
+        "lanes": [
+            "top",
+            "jung",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "7.1% \n",
+        "pickRate": "4.76"
+    },
+    {
+        "name": "Corki",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/corki.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/corki-31",
+        "pickRates": [
+            "73%",
+            "21%"
+        ],
+        "lanes": [
+            "mid",
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "0.3% \n",
+        "pickRate": "2.77"
+    },
+    {
+        "name": "Darius",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/darius.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/darius-98",
+        "pickRates": [
+            "89%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "34.6% \n",
+        "pickRate": "9.98"
+    },
+    {
+        "name": "Diana",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/diana.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/diana-102",
+        "pickRates": [
+            "75%",
+            "18%"
+        ],
+        "lanes": [
+            "mid",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "1.5% \n",
+        "pickRate": "4.02"
+    },
+    {
+        "name": "Dr. Mundo",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/dr-mundo.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/dr-mundo-26",
+        "pickRates": [
+            "82%",
+            "15%"
+        ],
+        "lanes": [
+            "top",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "1",
+            "1",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "3.2% \n",
+        "pickRate": "3.88"
+    },
+    {
+        "name": "Draven",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/draven.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/draven-99",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "21.6% \n",
+        "pickRate": "9.15"
+    },
+    {
+        "name": "Ekko",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/ekko.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/ekko-125",
+        "pickRates": [
+            "76%",
+            "16%"
+        ],
+        "lanes": [
+            "mid",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "3",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "2.3% \n",
+        "pickRate": "8.53"
+    },
+    {
+        "name": "Elise",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/elise.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/elise-106",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "2.1% \n",
+        "pickRate": "4.46"
+    },
+    {
+        "name": "Evelynn",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/evelynn.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/evelynn-19",
+        "pickRates": [
+            "100%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "1",
+            "2",
+            "2"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "23.6% \n",
+        "pickRate": "5.99"
+    },
+    {
+        "name": "Ezreal",
+        "imgSrc": "https://www.mobafire.com/images/menu/flag-popular.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/ezreal-47",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "11.6% \n",
+        "pickRate": "24.32"
+    },
+    {
+        "name": "Fiddlesticks",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/fiddlesticks.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/fiddlesticks-38",
+        "pickRates": [
+            "68%",
+            "28%"
+        ],
+        "lanes": [
+            "sup",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "6% \n",
+        "pickRate": "5.13"
+    },
+    {
+        "name": "Fiora",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/fiora.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/fiora-94",
+        "pickRates": [
+            "90%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "2",
+            "2"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "9.9% \n",
+        "pickRate": "7.59"
+    },
+    {
+        "name": "Fizz",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/fizz.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/fizz-87",
+        "pickRates": [
+            "91%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "3",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "14.9% \n",
+        "pickRate": "7.07"
+    },
+    {
+        "name": "Galio",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/galio.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/galio-57",
+        "pickRates": [
+            "86%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "3",
+            "2",
+            "1"
+        ],
+        "winRate": "53% \n\n",
+        "banRate": "4.1% \n",
+        "pickRate": "4.68"
+    },
+    {
+        "name": "Gangplank",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/gangplank.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/gangplank-30",
+        "pickRates": [
+            "82%",
+            "13%"
+        ],
+        "lanes": [
+            "top",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "1",
+            "2"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "6% \n",
+        "pickRate": "8.43"
+    },
+    {
+        "name": "Garen",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/garen.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/garen-51",
+        "pickRates": [
+            "90%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "1",
+            "1",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "5.2% \n",
+        "pickRate": "6.1"
+    },
+    {
+        "name": "Gnar",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/gnar.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/gnar-120",
+        "pickRates": [
+            "93%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "47% \n\n",
+        "banRate": "1.6% \n",
+        "pickRate": "4.42"
+    },
+    {
+        "name": "Gragas",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/gragas.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/gragas-45",
+        "pickRates": [
+            "71%",
+            "15%"
+        ],
+        "lanes": [
+            "jung",
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "3",
+            "2",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "1.3% \n",
+        "pickRate": "7.8"
+    },
+    {
+        "name": "Graves",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/graves.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/graves-85",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "1",
+            "2",
+            "2"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "13.5% \n",
+        "pickRate": "10.81"
+    },
+    {
+        "name": "Hecarim",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/hecarim.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/hecarim-96",
+        "pickRates": [
+            "93%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "1.7% \n",
+        "pickRate": "3.7"
+    },
+    {
+        "name": "Heimerdinger",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/heimerdinger.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/heimerdinger-40",
+        "pickRates": [
+            "37%",
+            "29%",
+            "28%"
+        ],
+        "lanes": [
+            "sup",
+            "mid",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "2"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "1.3% \n",
+        "pickRate": "3.24"
+    },
+    {
+        "name": "Illaoi",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/illaoi.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/illaoi-128",
+        "pickRates": [
+            "92%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "1",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "4.6% \n",
+        "pickRate": "3.42"
+    },
+    {
+        "name": "Irelia",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/irelia.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/irelia-64",
+        "pickRates": [
+            "54%",
+            "40%"
+        ],
+        "lanes": [
+            "top",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "3",
+            "2"
+        ],
+        "winRate": "46% \n\n",
+        "banRate": "30.1% \n",
+        "pickRate": "10.64"
+    },
+    {
+        "name": "Ivern",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/ivern.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/ivern-133",
+        "pickRates": [
+            "95%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "1",
+            "1",
+            "3",
+            "2",
+            "3"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "2.6% \n",
+        "pickRate": "1.49"
+    },
+    {
+        "name": "Janna",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/janna.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/janna-29",
+        "pickRates": [
+            "99%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "1",
+            "3",
+            "1",
+            "3"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "10.4% \n",
+        "pickRate": "12.68"
+    },
+    {
+        "name": "Jarvan IV",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/jarvan-iv.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/jarvan-iv-71",
+        "pickRates": [
+            "90%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "2.9% \n",
+        "pickRate": "9.38"
+    },
+    {
+        "name": "Jax",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/jax.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/jax-15",
+        "pickRates": [
+            "54%",
+            "44%"
+        ],
+        "lanes": [
+            "top",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "17.5% \n",
+        "pickRate": "14.93"
+    },
+    {
+        "name": "Jayce",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/jayce.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/jayce-100",
+        "pickRates": [
+            "68%",
+            "22%"
+        ],
+        "lanes": [
+            "top",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "2",
+            "2"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "4% \n",
+        "pickRate": "5.45"
+    },
+    {
+        "name": "Jhin",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/jhin.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/jhin-129",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "3% \n",
+        "pickRate": "18.32"
+    },
+    {
+        "name": "Jinx",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/jinx.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/jinx-116",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "0.5% \n",
+        "pickRate": "9.85"
+    },
+    {
+        "name": "Kai'Sa",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kaisa.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kaisa-145",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "17.9% \n",
+        "pickRate": "15.42"
+    },
+    {
+        "name": "Kalista",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kalista.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kalista-122",
+        "pickRates": [
+            "94%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "3",
+            "2"
+        ],
+        "winRate": "46% \n\n",
+        "banRate": "1.4% \n",
+        "pickRate": "3.28"
+    },
+    {
+        "name": "Karma",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/karma.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/karma-69",
+        "pickRates": [
+            "79%",
+            "12%"
+        ],
+        "lanes": [
+            "sup",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "0.6% \n",
+        "pickRate": "7.72"
+    },
+    {
+        "name": "Karthus",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/karthus.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/karthus-21",
+        "pickRates": [
+            "55%",
+            "27%",
+            "11%"
+        ],
+        "lanes": [
+            "jung",
+            "mid",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "1",
+            "2"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "2.8% \n",
+        "pickRate": "3.28"
+    },
+    {
+        "name": "Kassadin",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kassadin.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kassadin-27",
+        "pickRates": [
+            "93%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "17% \n",
+        "pickRate": "7.39"
+    },
+    {
+        "name": "Katarina",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/katarina.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/katarina-36",
+        "pickRates": [
+            "94%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "16.2% \n",
+        "pickRate": "6.61"
+    },
+    {
+        "name": "Kayle",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kayle.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kayle-2",
+        "pickRates": [
+            "58%",
+            "21%",
+            "13%"
+        ],
+        "lanes": [
+            "top",
+            "mid",
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "1",
+            "3"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "0.4% \n",
+        "pickRate": "2.27"
+    },
+    {
+        "name": "Kayn",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kayn.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kayn-137",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "12.3% \n",
+        "pickRate": "11.84"
+    },
+    {
+        "name": "Kennen",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kennen.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kennen-49",
+        "pickRates": [
+            "79%",
+            "11%"
+        ],
+        "lanes": [
+            "top",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "0.9% \n",
+        "pickRate": "3.54"
+    },
+    {
+        "name": "Kha'Zix",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/khazix.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/khazix-105",
+        "pickRates": [
+            "99%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "2",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "16.2% \n",
+        "pickRate": "11.97"
+    },
+    {
+        "name": "Kindred",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kindred.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kindred-127",
+        "pickRates": [
+            "99%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "3",
+            "2"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "3.6% \n",
+        "pickRate": "4.38"
+    },
+    {
+        "name": "Kled",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kled.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kled-132",
+        "pickRates": [
+            "84%",
+            "10%"
+        ],
+        "lanes": [
+            "top",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "1.4% \n",
+        "pickRate": "3.7"
+    },
+    {
+        "name": "Kog'Maw",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/kogmaw.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/kogmaw-54",
+        "pickRates": [
+            "90%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "3.3% \n",
+        "pickRate": "4.36"
+    },
+    {
+        "name": "LeBlanc",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/leblanc.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/leblanc-63",
+        "pickRates": [
+            "95%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "3",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "22.6% \n",
+        "pickRate": "8.32"
+    },
+    {
+        "name": "Lee Sin",
+        "imgSrc": "https://www.mobafire.com/images/menu/flag-popular.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/lee-sin-73",
+        "pickRates": [
+            "99%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "3",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "8.4% \n",
+        "pickRate": "20.41"
+    },
+    {
+        "name": "Leona",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/leona.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/leona-79",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "7.8% \n",
+        "pickRate": "9.36"
+    },
+    {
+        "name": "Lissandra",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/lissandra.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/lissandra-113",
+        "pickRates": [
+            "79%",
+            "16%"
+        ],
+        "lanes": [
+            "mid",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "1.7% \n",
+        "pickRate": "4.07"
+    },
+    {
+        "name": "Lucian",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/lucian.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/lucian-115",
+        "pickRates": [
+            "96%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "9.1% \n",
+        "pickRate": "20.26"
+    },
+    {
+        "name": "Lulu",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/lulu.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/lulu-95",
+        "pickRates": [
+            "95%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "2",
+            "1",
+            "3"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "18.6% \n",
+        "pickRate": "12.82"
+    },
+    {
+        "name": "Lux",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/lux.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/lux-62",
+        "pickRates": [
+            "51%",
+            "48%"
+        ],
+        "lanes": [
+            "sup",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "2"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "0.8% \n",
+        "pickRate": "10.56"
+    },
+    {
+        "name": "Malphite",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/malphite.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/malphite-35",
+        "pickRates": [
+            "73%",
+            "11%"
+        ],
+        "lanes": [
+            "top",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "1.5% \n",
+        "pickRate": "6.51"
+    },
+    {
+        "name": "Malzahar",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/malzahar.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/malzahar-52",
+        "pickRates": [
+            "83%",
+            "11%"
+        ],
+        "lanes": [
+            "mid",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "9.2% \n",
+        "pickRate": "6.09"
+    },
+    {
+        "name": "Maokai",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/maokai.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/maokai-70",
+        "pickRates": [
+            "68%",
+            "17%",
+            "14%"
+        ],
+        "lanes": [
+            "top",
+            "sup",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "2.3% \n",
+        "pickRate": "4.58"
+    },
+    {
+        "name": "Master Yi",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/master-yi.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/master-yi-3",
+        "pickRates": [
+            "93%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "2",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "14.6% \n",
+        "pickRate": "8.18"
+    },
+    {
+        "name": "Miss Fortune",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/miss-fortune.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/miss-fortune-59",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "3.3% \n",
+        "pickRate": "10.17"
+    },
+    {
+        "name": "Mordekaiser",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/mordekaiser.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/mordekaiser-46",
+        "pickRates": [
+            "60%",
+            "16%",
+            "14%",
+            "10%"
+        ],
+        "lanes": [
+            "top",
+            "mid",
+            "bot",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "1",
+            "1",
+            "2"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "0.6% \n",
+        "pickRate": "1.72"
+    },
+    {
+        "name": "Morgana",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/morgana.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/morgana-16",
+        "pickRates": [
+            "94%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "19.9% \n",
+        "pickRate": "11.8"
+    },
+    {
+        "name": "Nami",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/nami.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/nami-108",
+        "pickRates": [
+            "99%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "1",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "1.1% \n",
+        "pickRate": "12.31"
+    },
+    {
+        "name": "Nasus",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/nasus.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/nasus-37",
+        "pickRates": [
+            "59%",
+            "39%"
+        ],
+        "lanes": [
+            "top",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "4.5% \n",
+        "pickRate": "5.43"
+    },
+    {
+        "name": "Nautilus",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/nautilus.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/nautilus-93",
+        "pickRates": [
+            "83%",
+            "10%"
+        ],
+        "lanes": [
+            "sup",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "0.2% \n",
+        "pickRate": "3.53"
+    },
+    {
+        "name": "Neeko",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/neeko.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/neeko-147",
+        "pickRates": [
+            "53%",
+            "32%",
+            "10%"
+        ],
+        "lanes": [
+            "mid",
+            "sup",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "47% \n\n",
+        "banRate": "4% \n",
+        "pickRate": "1"
+    },
+    {
+        "name": "Nidalee",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/nidalee.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/nidalee-42",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "3",
+            "2"
+        ],
+        "winRate": "47% \n\n",
+        "banRate": "2.2% \n",
+        "pickRate": "5.58"
+    },
+    {
+        "name": "Nocturne",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/nocturne.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/nocturne-72",
+        "pickRates": [
+            "90%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "2"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "5.7% \n",
+        "pickRate": "5.61"
+    },
+    {
+        "name": "Nunu & Willump",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/nunu-amp-willump.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/nunu-amp-willump-12",
+        "pickRates": [
+            "94%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "2",
+            "1",
+            "2"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "2.1% \n",
+        "pickRate": "2.95"
+    },
+    {
+        "name": "Olaf",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/olaf.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/olaf-53",
+        "pickRates": [
+            "54%",
+            "44%"
+        ],
+        "lanes": [
+            "jung",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "0.9% \n",
+        "pickRate": "2.91"
+    },
+    {
+        "name": "Orianna",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/orianna.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/orianna-77",
+        "pickRates": [
+            "93%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "1.3% \n",
+        "pickRate": "9"
+    },
+    {
+        "name": "Ornn",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/ornn.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/ornn-139",
+        "pickRates": [
+            "77%",
+            "13%"
+        ],
+        "lanes": [
+            "top",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "3",
+            "1",
+            "2"
+        ],
+        "winRate": "44% \n\n",
+        "banRate": "5.8% \n",
+        "pickRate": "4.31"
+    },
+    {
+        "name": "Pantheon",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/pantheon.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/pantheon-44",
+        "pickRates": [
+            "57%",
+            "36%"
+        ],
+        "lanes": [
+            "jung",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "4.6% \n",
+        "pickRate": "5.75"
+    },
+    {
+        "name": "Poppy",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/poppy.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/poppy-43",
+        "pickRates": [
+            "65%",
+            "22%",
+            "11%"
+        ],
+        "lanes": [
+            "top",
+            "jung",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "3",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "1% \n",
+        "pickRate": "4.29"
+    },
+    {
+        "name": "Pyke",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/pyke.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/pyke-146",
+        "pickRates": [
+            "91%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "3",
+            "3",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "18% \n",
+        "pickRate": "8.56"
+    },
+    {
+        "name": "Quinn",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/quinn.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/quinn-111",
+        "pickRates": [
+            "68%",
+            "13%",
+            "11%"
+        ],
+        "lanes": [
+            "top",
+            "jung",
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "3",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "3% \n",
+        "pickRate": "3.02"
+    },
+    {
+        "name": "Rakan",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/rakan.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/rakan-136",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "2",
+            "3",
+            "3",
+            "3"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "5.6% \n",
+        "pickRate": "10.77"
+    },
+    {
+        "name": "Rammus",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/rammus.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/rammus-24",
+        "pickRates": [
+            "95%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "3",
+            "2",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "5.3% \n",
+        "pickRate": "4.29"
+    },
+    {
+        "name": "Rek'Sai",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/reksai.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/reksai-123",
+        "pickRates": [
+            "96%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "2"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "0.5% \n",
+        "pickRate": "2.02"
+    },
+    {
+        "name": "Renekton",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/renekton.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/renekton-68",
+        "pickRates": [
+            "86%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "2.2% \n",
+        "pickRate": "6.45"
+    },
+    {
+        "name": "Rengar",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/rengar.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/rengar-103",
+        "pickRates": [
+            "75%",
+            "23%"
+        ],
+        "lanes": [
+            "jung",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "7% \n",
+        "pickRate": "7.79"
+    },
+    {
+        "name": "Riven",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/riven.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/riven-83",
+        "pickRates": [
+            "85%",
+            "10%"
+        ],
+        "lanes": [
+            "top",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "3",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "3.2% \n",
+        "pickRate": "9.59"
+    },
+    {
+        "name": "Rumble",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/rumble.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/rumble-75",
+        "pickRates": [
+            "75%",
+            "13%",
+            "11%"
+        ],
+        "lanes": [
+            "top",
+            "mid",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "0.4% \n",
+        "pickRate": "3.04"
+    },
+    {
+        "name": "Ryze",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/ryze.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/ryze-5",
+        "pickRates": [
+            "61%",
+            "34%"
+        ],
+        "lanes": [
+            "mid",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "2"
+        ],
+        "winRate": "44% \n\n",
+        "banRate": "1.8% \n",
+        "pickRate": "5.52"
+    },
+    {
+        "name": "Sejuani",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/sejuani.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/sejuani-91",
+        "pickRates": [
+            "94%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "3",
+            "2",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "8.3% \n",
+        "pickRate": "5.23"
+    },
+    {
+        "name": "Shaco",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/shaco.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/shaco-41",
+        "pickRates": [
+            "94%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "2"
+        ],
+        "winRate": "53% \n\n",
+        "banRate": "4.3% \n",
+        "pickRate": "5.5"
+    },
+    {
+        "name": "Shen",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/shen.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/shen-48",
+        "pickRates": [
+            "70%",
+            "22%"
+        ],
+        "lanes": [
+            "top",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "2",
+            "2",
+            "3"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "0.6% \n",
+        "pickRate": "6.11"
+    },
+    {
+        "name": "Shyvana",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/shyvana.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/shyvana-86",
+        "pickRates": [
+            "88%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "1",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "2% \n",
+        "pickRate": "3.48"
+    },
+    {
+        "name": "Singed",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/singed.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/singed-18",
+        "pickRates": [
+            "75%",
+            "22%"
+        ],
+        "lanes": [
+            "top",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "1.4% \n",
+        "pickRate": "3.92"
+    },
+    {
+        "name": "Sion",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/sion.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/sion-6",
+        "pickRates": [
+            "85%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "3.7% \n",
+        "pickRate": "6.55"
+    },
+    {
+        "name": "Sivir",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/sivir.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/sivir-7",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "1",
+            "2"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "0.3% \n",
+        "pickRate": "5.73"
+    },
+    {
+        "name": "Skarner",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/skarner.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/skarner-81",
+        "pickRates": [
+            "97%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "1.1% \n",
+        "pickRate": "1.87"
+    },
+    {
+        "name": "Sona",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/sona.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/sona-60",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "2",
+            "1",
+            "2"
+        ],
+        "winRate": "55% \n\n",
+        "banRate": "0.9% \n",
+        "pickRate": "5.8"
+    },
+    {
+        "name": "Soraka",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/soraka.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/soraka-8",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "1",
+            "2",
+            "1",
+            "3"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "5.6% \n",
+        "pickRate": "9.24"
+    },
+    {
+        "name": "Swain",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/swain.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/swain-61",
+        "pickRates": [
+            "44%",
+            "38%",
+            "16%"
+        ],
+        "lanes": [
+            "top",
+            "mid",
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "5.9% \n",
+        "pickRate": "5.32"
+    },
+    {
+        "name": "Sylas",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/sylas.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/sylas-148",
+        "pickRates": [
+            "36%",
+            "32%",
+            "25%"
+        ],
+        "lanes": [
+            "mid",
+            "jung",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "0% \n\n",
+        "banRate": "0% \n",
+        "pickRate": ""
+    },
+    {
+        "name": "Syndra",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/syndra.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/syndra-104",
+        "pickRates": [
+            "94%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "1.4% \n",
+        "pickRate": "4.72"
+    },
+    {
+        "name": "Tahm Kench",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/tahm-kench.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/tahm-kench-126",
+        "pickRates": [
+            "74%",
+            "21%"
+        ],
+        "lanes": [
+            "sup",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "1",
+            "3",
+            "2",
+            "1",
+            "3"
+        ],
+        "winRate": "45% \n\n",
+        "banRate": "2.1% \n",
+        "pickRate": "3.93"
+    },
+    {
+        "name": "Taliyah",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/taliyah.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/taliyah-131",
+        "pickRates": [
+            "71%",
+            "17%",
+            "11%"
+        ],
+        "lanes": [
+            "jung",
+            "mid",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "3"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "3% \n",
+        "pickRate": "4.77"
+    },
+    {
+        "name": "Talon",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/talon.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/talon-82",
+        "pickRates": [
+            "87%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "7.1% \n",
+        "pickRate": "5.44"
+    },
+    {
+        "name": "Taric",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/taric.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/taric-32",
+        "pickRates": [
+            "95%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "2",
+            "2",
+            "1",
+            "3"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "0.7% \n",
+        "pickRate": "3.63"
+    },
+    {
+        "name": "Teemo",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/teemo.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/teemo-9",
+        "pickRates": [
+            "76%",
+            "13%"
+        ],
+        "lanes": [
+            "top",
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "2"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "5.9% \n",
+        "pickRate": "6.07"
+    },
+    {
+        "name": "Thresh",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/thresh.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/thresh-110",
+        "pickRates": [
+            "99%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "1",
+            "2",
+            "3",
+            "1",
+            "3"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "7.8% \n",
+        "pickRate": "21.94"
+    },
+    {
+        "name": "Tristana",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/tristana.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/tristana-10",
+        "pickRates": [
+            "96%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "6.2% \n",
+        "pickRate": "13.45"
+    },
+    {
+        "name": "Trundle",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/trundle.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/trundle-65",
+        "pickRates": [
+            "57%",
+            "37%"
+        ],
+        "lanes": [
+            "jung",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "1",
+            "1",
+            "2"
+        ],
+        "winRate": "47% \n\n",
+        "banRate": "0.8% \n",
+        "pickRate": "3.84"
+    },
+    {
+        "name": "Tryndamere",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/tryndamere.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/tryndamere-14",
+        "pickRates": [
+            "78%",
+            "19%"
+        ],
+        "lanes": [
+            "top",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "1",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "4.2% \n",
+        "pickRate": "4.83"
+    },
+    {
+        "name": "Twisted Fate",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/twisted-fate.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/twisted-fate-28",
+        "pickRates": [
+            "92%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "2"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "2.5% \n",
+        "pickRate": "7.64"
+    },
+    {
+        "name": "Twitch",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/twitch.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/twitch-20",
+        "pickRates": [
+            "59%",
+            "40%"
+        ],
+        "lanes": [
+            "bot",
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png",
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "8% \n",
+        "pickRate": "9.15"
+    },
+    {
+        "name": "Udyr",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/udyr.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/udyr-39",
+        "pickRates": [
+            "93%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "1.9% \n",
+        "pickRate": "4.26"
+    },
+    {
+        "name": "Urgot",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/urgot.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/urgot-58",
+        "pickRates": [
+            "86%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "7.2% \n",
+        "pickRate": "5.14"
+    },
+    {
+        "name": "Varus",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/varus.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/varus-97",
+        "pickRates": [
+            "96%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "46% \n\n",
+        "banRate": "1.4% \n",
+        "pickRate": "7.85"
+    },
+    {
+        "name": "Vayne",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/vayne.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/vayne-76",
+        "pickRates": [
+            "90%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "11.6% \n",
+        "pickRate": "16.82"
+    },
+    {
+        "name": "Veigar",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/veigar.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/veigar-33",
+        "pickRates": [
+            "59%",
+            "34%"
+        ],
+        "lanes": [
+            "mid",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "1.8% \n",
+        "pickRate": "6.32"
+    },
+    {
+        "name": "Vel'Koz",
+        "imgSrc": "https://www.mobafire.com/images/champion/square/velkoz.png",
+        "href": "https://www.mobafire.com/league-of-legends/champion/velkoz-118",
+        "pickRates": [
+            "60%",
+            "37%"
+        ],
+        "lanes": [
+            "sup",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "0.6% \n",
+        "pickRate": "5.81"
+    },
+    {
+        "name": "Vi",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/vi.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/vi-109",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "3",
+            "2",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "0.4% \n",
+        "pickRate": "3.85"
+    },
+    {
+        "name": "Viktor",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/viktor.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/viktor-90",
+        "pickRates": [
+            "46%",
+            "37%",
+            "15%"
+        ],
+        "lanes": [
+            "top",
+            "mid",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "5% \n",
+        "pickRate": "5.06"
+    },
+    {
+        "name": "Vladimir",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/vladimir.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/vladimir-56",
+        "pickRates": [
+            "50%",
+            "44%"
+        ],
+        "lanes": [
+            "top",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "1",
+            "1",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "15.7% \n",
+        "pickRate": "8.7"
+    },
+    {
+        "name": "Volibear",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/volibear.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/volibear-88",
+        "pickRates": [
+            "55%",
+            "37%"
+        ],
+        "lanes": [
+            "jung",
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "47% \n\n",
+        "banRate": "0.8% \n",
+        "pickRate": "1.79"
+    },
+    {
+        "name": "Warwick",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/warwick.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/warwick-11",
+        "pickRates": [
+            "96%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "9% \n",
+        "pickRate": "6.22"
+    },
+    {
+        "name": "Wukong",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/wukong.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/wukong-80",
+        "pickRates": [
+            "58%",
+            "30%",
+            "10%"
+        ],
+        "lanes": [
+            "jung",
+            "top",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "2.3% \n",
+        "pickRate": "4.88"
+    },
+    {
+        "name": "Xayah",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/xayah.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/xayah-135",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "2",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "47% \n\n",
+        "banRate": "8.3% \n",
+        "pickRate": "12.45"
+    },
+    {
+        "name": "Xerath",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/xerath.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/xerath-84",
+        "pickRates": [
+            "58%",
+            "40%"
+        ],
+        "lanes": [
+            "mid",
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "1",
+            "1"
+        ],
+        "winRate": "51% \n\n",
+        "banRate": "1.6% \n",
+        "pickRate": "6.06"
+    },
+    {
+        "name": "Xin Zhao",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/xin-zhao.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/xin-zhao-55",
+        "pickRates": [
+            "98%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "7.7% \n",
+        "pickRate": "8.05"
+    },
+    {
+        "name": "Yasuo",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/yasuo.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/yasuo-117",
+        "pickRates": [
+            "58%",
+            "26%",
+            "11%"
+        ],
+        "lanes": [
+            "mid",
+            "top",
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-top.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "3",
+            "2"
+        ],
+        "winRate": "48% \n\n",
+        "banRate": "49.2% \n",
+        "pickRate": "18.27"
+    },
+    {
+        "name": "Yorick",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/yorick.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/yorick-78",
+        "pickRates": [
+            "92%"
+        ],
+        "lanes": [
+            "top"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-top.png"
+        ],
+        "statRatings": [
+            "2",
+            "2",
+            "2",
+            "1",
+            "2"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "0.8% \n",
+        "pickRate": "2.13"
+    },
+    {
+        "name": "Zac",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/zac.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/zac-112",
+        "pickRates": [
+            "96%"
+        ],
+        "lanes": [
+            "jung"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-jungle.png"
+        ],
+        "statRatings": [
+            "2",
+            "3",
+            "3",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "4.9% \n",
+        "pickRate": "4.24"
+    },
+    {
+        "name": "Zed",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/zed.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/zed-107",
+        "pickRates": [
+            "93%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "1",
+            "3",
+            "1"
+        ],
+        "winRate": "50% \n\n",
+        "banRate": "44.6% \n",
+        "pickRate": "12.08"
+    },
+    {
+        "name": "Ziggs",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/ziggs.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/ziggs-92",
+        "pickRates": [
+            "72%",
+            "24%"
+        ],
+        "lanes": [
+            "mid",
+            "bot"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png",
+            "https://www.mobafire.com/images/lanes/shadow-bottom.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "0.1% \n",
+        "pickRate": "2.75"
+    },
+    {
+        "name": "Zilean",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/zilean.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/zilean-17",
+        "pickRates": [
+            "80%",
+            "17%"
+        ],
+        "lanes": [
+            "sup",
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png",
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "2",
+            "1",
+            "2",
+            "2",
+            "3"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "0.9% \n",
+        "pickRate": "4.32"
+    },
+    {
+        "name": "Zoe",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/zoe.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/zoe-140",
+        "pickRates": [
+            "91%"
+        ],
+        "lanes": [
+            "mid"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-middle.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "winRate": "49% \n\n",
+        "banRate": "24.9% \n",
+        "pickRate": "6.01"
+    },
+    {
+        "name": "Zyra",
+        "imgSrc": "https://www.mobafire.com/images/champion/card/zyra.jpg",
+        "href": "https://www.mobafire.com/league-of-legends/champion/zyra-101",
+        "pickRates": [
+            "95%"
+        ],
+        "lanes": [
+            "sup"
+        ],
+        "laneImgSrcs": [
+            "https://www.mobafire.com/images/lanes/shadow-support.png"
+        ],
+        "statRatings": [
+            "3",
+            "1",
+            "3",
+            "1",
+            "1"
+        ],
+        "winRate": "52% \n\n",
+        "banRate": "2.5% \n",
+        "pickRate": "5.82"
+    }
+]
