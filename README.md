@@ -2,6 +2,8 @@
 
 Android için lol app yapımı.
 
+> Hasar hesaplama excel'ine (buradan)[/res/LOL%20-%20Dmg%20Calculator.xlsx] erişebilirsin
+
 ## Yapılacaklar
 
 ### Site Yönetimi
