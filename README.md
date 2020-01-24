@@ -1,4 +1,4 @@
-# League of Legends (LoL) Rehber Uygulaması <!-- omit in toc -->
+# 📖 League of Legends (LoL) Rehber Uygulaması <!-- omit in toc -->
 
 Android için League of Legends (LoL) rehber uygulaması yapımı.
 
